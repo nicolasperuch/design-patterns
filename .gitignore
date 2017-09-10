@@ -10,6 +10,9 @@
 .settings
 .springBeans
 
+### Java ###
+.class
+
 ### IntelliJ IDEA ###
 .idea
 *.iws

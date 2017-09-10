@@ -1,3 +1,4 @@
+import factory.Tree;
 import factory.TreeFactory;
 import factory.XmasTree;
 
@@ -7,7 +8,9 @@ public class Runner {
 
         TreeFactory factory = new XmasTree();
 
-        System.out.println(factory.createTree());
+        Tree XmasTree = factory.createTree();
+
+        System.out.println(XmasTree);
     }
 
 }
