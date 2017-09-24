@@ -1,4 +1,4 @@
-import Strategy.*;
+import strategy.*;
 
 public class Runner {
 

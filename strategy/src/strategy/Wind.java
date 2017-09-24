@@ -1,4 +1,4 @@
-package Strategy;
+package strategy;
 
 public class Wind extends Type implements Strategy{
 

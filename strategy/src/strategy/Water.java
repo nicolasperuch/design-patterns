@@ -1,4 +1,4 @@
-package Strategy;
+package strategy;
 
 public class Water extends Type implements Strategy{
 
